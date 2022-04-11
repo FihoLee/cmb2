@@ -1,0 +1,13 @@
+{
+  "resourceName": "cmb2category",
+  "policyUUID": "89321a58",
+  "bucketName": "ttbstorage2",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "groupAccess": {}
+}
